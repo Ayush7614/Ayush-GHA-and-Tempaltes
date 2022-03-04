@@ -1,71 +1,40 @@
-<hr>
+# Pull Request Template
 
-## Description 📜
+## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. 
-Fixes # <issue_number_here> 
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-<hr>
+Fixes # (issue)
 
-## Type of change 📝
+## Type of change
 
-<!----Please delete the hashtag from the correct option----->
+Please delete options that are not relevant.
 
-- [ ] A#udio (Should be in mp3 format Includes speech clarity, Concise ,Low distortion)
-- [ ] V#ideo (Animations, screen-recordings, presentations and regular explanatory films are all possibilties etc)
-- [ ] D#ocumentation (Content Creation in the form of codes or tutorials)
-- [ ] O#ther (If you choose other, Please mention changes below) 
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a documentation update
 
-<hr>
+## How Has This Been Tested?
 
-## Domain of Contribution 📊
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
-<!----Please delete the hashtag from your domain----->
+## Additional Context (Please include any Screenshots/gifs if relevant)
 
-- [ ] Android Dev #(Flutter)
-- [ ] Android Dev #(Java)
-- [ ] Android Dev #(Kotlin)
-- [ ] Backend Dev #(Java)
-- [ ] Backend Dev #(.NET)
-- [ ] Backend Dev #(PHP)
-- [ ] Backend Dev #(Python)
-- [ ] C/#CPP
-- [ ] Competitive #Programming
-- [ ] Cyber #Security
-- [ ] DS#A
-- [ ] Data#base
-- [ ] Datascience with #Python
-- [ ] Datascience with #R
-- [ ] Frontend Dev #HTML/CSS/JS
-- [ ] Frontend Dev #React/Angular/Vue
-- [ ] Go#lang
-- [ ] Interview #Prep
-- [ ] Java_#Domain
-- [ ] Java#Script
-- [ ] ME#RN
-- [ ] Machine #Learning
-- [ ] Open #Source
-- [ ] Python_#Domain
-- [ ] Ru#st
-- [ ] Statis#tics
-- [ ] UI/#UX
+...
 
-<hr>
+## Checklist:
 
-## Checklist ✅
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
+- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] I have checked my code and corrected any misspellings
+- [ ] I have tagged the reviewers in a comment below incase my pull request is ready for a review
+- [ ] I have signed the commit message to agree to Developer Certificate of Origin (DCO) (to certify that you wrote or otherwise have the right to submit your contribution to the project.) by adding "--signoff" to my git commit command.
 
-<!----Please delete options that are not relevant.And in order to tick the check box just but x inside them for example [x] like this----->
-
-- [ ] I follow [Contributing Guidelines](https://github.com/girlscript/winter-of-contributing/blob/main/.github/CONTRIBUTING.md) & [Code of conduct](https://github.com/girlscript/winter-of-contributing/blob/main/.github/CODE_OF_CONDUCT.md) of this project.
-- [ ] I have performed a self-review of my own code or work.
-- [ ] I have commented my code, particularly in hard-to-understand areas.
-- [ ] My changes generates no new warnings.
-- [ ] I'm GWOC'21 contributor
-
-<hr>
-
-<!----Please delete options that are not relevant.And in order to tick the check box just but x inside them for example [x] like this----->
-
-## Screenshots / Gif (Optional) 📸
-
-<hr>
+<!--- Thanks for opening this pull request! If the tests fail, please feel free to reach out to us by leaving a comment down below and we will be happy to take a look --->
