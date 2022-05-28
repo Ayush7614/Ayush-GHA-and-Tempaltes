@@ -31,6 +31,6 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Additional Information
+      label: Additional Info
       description: 'Any additional information that may help us reproduce the bug.'
 
